@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianDate", "PersianDate\PersianDate.csproj", "{FBDE465A-750D-41E7-BE3F-6D38EEBD7C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianDateControls", "..\PersianDateControls\PersianDateControls\PersianDateControls.csproj", "{EEBCCEEA-74BD-4581-A74A-9CA7B6FB16D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianDateTests", "..\PersianDateTests\PersianDateTests\PersianDateTests.csproj", "{87EECF24-7D17-470D-AAC5-328495EE3930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianDateControlsUITest", "..\PersianDateControlsUITest\PersianDateControlsUITest\PersianDateControlsUITest.csproj", "{DF0E3A51-EAC5-4834-AA00-1E4E19556F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianDateDemo", "..\PersianDateDemo\PersianDateDemo\PersianDateDemo.csproj", "{0922BAB4-59B7-470B-BBC3-1EDB45F18400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDE465A-750D-41E7-BE3F-6D38EEBD7C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDE465A-750D-41E7-BE3F-6D38EEBD7C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDE465A-750D-41E7-BE3F-6D38EEBD7C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDE465A-750D-41E7-BE3F-6D38EEBD7C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBCCEEA-74BD-4581-A74A-9CA7B6FB16D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBCCEEA-74BD-4581-A74A-9CA7B6FB16D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBCCEEA-74BD-4581-A74A-9CA7B6FB16D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBCCEEA-74BD-4581-A74A-9CA7B6FB16D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EECF24-7D17-470D-AAC5-328495EE3930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EECF24-7D17-470D-AAC5-328495EE3930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EECF24-7D17-470D-AAC5-328495EE3930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EECF24-7D17-470D-AAC5-328495EE3930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0E3A51-EAC5-4834-AA00-1E4E19556F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E3A51-EAC5-4834-AA00-1E4E19556F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0E3A51-EAC5-4834-AA00-1E4E19556F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0E3A51-EAC5-4834-AA00-1E4E19556F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0922BAB4-59B7-470B-BBC3-1EDB45F18400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0922BAB4-59B7-470B-BBC3-1EDB45F18400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0922BAB4-59B7-470B-BBC3-1EDB45F18400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0922BAB4-59B7-470B-BBC3-1EDB45F18400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5BD2B4-A650-41D0-AAE8-7399BB636106}
+	EndGlobalSection
+EndGlobal
