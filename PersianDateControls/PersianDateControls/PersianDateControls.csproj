@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Description>Mohsen Shojaei
+09136972042</Description>
+    <Copyright>Copyright © Pooyesh</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="OpenCalendarButtonImage.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PersianDate\PersianDate\PersianDate.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="OpenCalendarButtonImage.bmp" />
+  </ItemGroup>
+
+</Project>
